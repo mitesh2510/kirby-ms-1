@@ -1,0 +1,13 @@
+Title: projects
+
+----
+
+Text: do not change anything here click on pages listed you  want add and edit
+
+----
+
+Sortable: projects-a, projects-d, projects-c
+
+----
+
+Imageurl: 

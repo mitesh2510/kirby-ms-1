@@ -1,0 +1,37 @@
+title: project
+pages: true
+  template:
+    - module.text
+    - module.imageurl
+  build:
+    - title: _project
+      uid: project
+      template: project
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  text:
+    label: Text
+    type:  textarea
+  imageurl:
+    label: Image Url
+    type:  url
+
+  sortable:
+    label: sortable
+    type:  sortable
+
+    sortable: true
+
+    layout:  base
+    variant: null
+
+    limit: false
+
+    parent: null
+    prefix: null
+
+    options:
+      limit: false
