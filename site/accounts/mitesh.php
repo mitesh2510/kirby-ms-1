@@ -7,8 +7,9 @@ email: mitesh.development1@gmail.com
 language: en
 role: admin
 history:
-  - projects
   - projects/projects-c
+  - projects
+  - projects/projects-c/project-sub2
   - projects/projects-d
   - projects/projects-a
 clipboard:

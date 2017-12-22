@@ -6,7 +6,7 @@ Text: do not change anything here click on pages listed you  want add and edit
 
 ----
 
-Sortable: projects-a, projects-d, projects-c
+Sortable: projects-c, projects-d, projects-a
 
 ----
 

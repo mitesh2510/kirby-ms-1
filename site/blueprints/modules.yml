@@ -1,0 +1,5 @@
+title: Modules
+pages:
+  template:
+    - module.text
+    - module.gallery

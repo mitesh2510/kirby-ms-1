@@ -1,12 +1,10 @@
 title: project
-pages: true
-  template:
-    - module.text
-    - module.imageurl
+pages:
+  template: default
   build:
-    - title: _project
-      uid: project
-      template: project
+    - title: _modules
+      uid: modules
+      template: modules
 files: true
 fields:
   title:
